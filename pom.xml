@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>proyecto</groupId>
-	<artifactId>scaffolding</artifactId>
+	<artifactId>guess-number</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>scaffolding</name>
+	<name>guess-number</name>
 	<description>Template SpringBoot</description>
 	<properties>
 		<java.version>17</java.version>
